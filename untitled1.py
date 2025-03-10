@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 10 18:43:53 2020
 
 import datetime
-@author: chait 
+
 """
 import selenium
 import time
